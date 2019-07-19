@@ -1,4 +1,3 @@
 # Unity-OnePunchWild
 Unity-Game-Hackaton
-
-![alt text](C:\Users\the-n\Desktop)
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
